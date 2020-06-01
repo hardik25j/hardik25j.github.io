@@ -1,25 +1,12 @@
-## Welcome to GitHub Pages
+# Functional Component in React JS
 
-You can use the [editor on GitHub](https://github.com/hardik25j/hardik25j.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to JS Addiction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  I recently started learning about the [React 16.8](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html). I asked you, "What is benefits of functional components?".First Let's discuss about How to declare functional components and then their benefits over the class component.  
+  
+### Declaration
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
